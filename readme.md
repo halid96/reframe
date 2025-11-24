@@ -1,4 +1,4 @@
-# 🎬 Reframe
+# 🎬 Reframe - Open Source - Community Driven
 
 ## ℹ️ About
 Reframe is a tool for smartly cropping landscape or square videos (e.g., 16:9) and converting them into vertically-oriented, mobile-friendly videos (e.g., 9:16 Shorts, TikToks, and Reels).
