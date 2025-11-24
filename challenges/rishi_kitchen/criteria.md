@@ -1,0 +1,1 @@
+Algorithm shall understand who is the main person in scene 1, and in scene 2 it must prioritize and focus on them. ( In this case it must be focused on Rishi Sunak )

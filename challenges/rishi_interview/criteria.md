@@ -1,0 +1,1 @@
+As both of them are fitting in 9:16 screen, algo shall focus on the center of them, and keep both of them in the frame.

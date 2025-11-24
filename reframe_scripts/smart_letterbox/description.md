@@ -1,0 +1,1 @@
+Tried to implement smart split screen, for test / challenge "rishi_split_screen", but not smooth enough.

@@ -1,0 +1,8 @@
+opencv-python
+imageio[ffmpeg]
+ffmpeg-python
+numpy
+deep-sort-realtime
+ultralytics
+git+https://github.com/openai/CLIP.git
+

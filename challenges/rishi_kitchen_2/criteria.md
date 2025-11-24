@@ -1,0 +1,1 @@
+- Algorithm shall transition into the other speaking person, and transition smoothly back to the main speaking person.
