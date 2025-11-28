@@ -11,7 +11,7 @@ Current tools, including industry standards like DaVinci Resolve Studio and Prem
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/reframe.git
+   git clone https://github.com/halid96/reframe.git
    cd reframe
    ```
 
